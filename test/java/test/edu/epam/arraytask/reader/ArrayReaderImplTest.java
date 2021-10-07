@@ -27,7 +27,7 @@ public class ArrayReaderImplTest {
 
     @Test
     public void testReadArraysFromFilePositiveOutcome() throws ArrayException {
-        String path = "test.txt";
+        String path = "src/test/resources/test.txt";
         List<List<String>> actual = arrayReader.readArraysFromFile(path);
 
         assertEquals(actual.toString(), expected.toString());
