@@ -1,6 +1,6 @@
 package edu.epam.arraytask.reader.impl;
 
-import edu.epam.arraytask.exceptions.ArrayException;
+import edu.epam.arraytask.exception.ArrayException;
 import edu.epam.arraytask.reader.ArrayReader;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;

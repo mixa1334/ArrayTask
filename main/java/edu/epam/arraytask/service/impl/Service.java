@@ -1,7 +1,7 @@
-package edu.epam.arraytask.services.impl;
+package edu.epam.arraytask.service.impl;
 
 import edu.epam.arraytask.customarray.CustomArray;
-import edu.epam.arraytask.services.*;
+import edu.epam.arraytask.service.*;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

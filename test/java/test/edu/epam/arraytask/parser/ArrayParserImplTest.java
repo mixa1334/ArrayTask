@@ -2,7 +2,7 @@ package test.edu.epam.arraytask.parser;
 
 import edu.epam.arraytask.customarray.CustomArray;
 import edu.epam.arraytask.customarray.impl.CustomArrayImpl;
-import edu.epam.arraytask.exceptions.ArrayException;
+import edu.epam.arraytask.exception.ArrayException;
 import edu.epam.arraytask.parser.ArrayParser;
 import edu.epam.arraytask.parser.impl.ArrayParserImpl;
 import edu.epam.arraytask.validator.impl.ArrayValidatorImpl;

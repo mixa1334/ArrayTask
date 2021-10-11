@@ -1,6 +1,6 @@
 package edu.epam.arraytask.reader;
 
-import edu.epam.arraytask.exceptions.ArrayException;
+import edu.epam.arraytask.exception.ArrayException;
 
 import java.util.List;
 

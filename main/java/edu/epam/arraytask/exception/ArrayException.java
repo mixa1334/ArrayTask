@@ -1,4 +1,4 @@
-package edu.epam.arraytask.exceptions;
+package edu.epam.arraytask.exception;
 
 public class ArrayException extends Exception {
     public ArrayException() {

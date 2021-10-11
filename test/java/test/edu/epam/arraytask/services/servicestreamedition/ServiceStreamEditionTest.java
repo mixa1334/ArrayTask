@@ -2,7 +2,7 @@ package test.edu.epam.arraytask.services.servicestreamedition;
 
 import edu.epam.arraytask.customarray.CustomArray;
 import edu.epam.arraytask.customarray.impl.CustomArrayImpl;
-import edu.epam.arraytask.services.impl.intstream.ServiceStreamEdition;
+import edu.epam.arraytask.service.impl.intstream.ServiceStreamEdition;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 

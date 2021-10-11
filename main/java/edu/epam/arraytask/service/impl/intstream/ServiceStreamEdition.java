@@ -1,8 +1,7 @@
-package edu.epam.arraytask.services.impl.intstream;
+package edu.epam.arraytask.service.impl.intstream;
 
 import edu.epam.arraytask.customarray.CustomArray;
-import edu.epam.arraytask.services.*;
-import edu.epam.arraytask.services.*;
+import edu.epam.arraytask.service.*;
 
 import java.util.OptionalDouble;
 import java.util.OptionalInt;

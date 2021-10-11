@@ -1,6 +1,6 @@
 package test.edu.epam.arraytask.reader;
 
-import edu.epam.arraytask.exceptions.ArrayException;
+import edu.epam.arraytask.exception.ArrayException;
 import edu.epam.arraytask.reader.ArrayReader;
 import edu.epam.arraytask.reader.impl.ArrayReaderImpl;
 import org.testng.annotations.BeforeMethod;
@@ -27,7 +27,7 @@ public class ArrayReaderImplTest {
 
     @Test
     public void testReadArraysFromFilePositiveOutcome() throws ArrayException {
-        String path = "src/test/resources/test.txt";
+        String path = "test.txt";
         List<List<String>> actual = arrayReader.readArraysFromFile(path);
 
         assertEquals(actual.toString(), expected.toString());

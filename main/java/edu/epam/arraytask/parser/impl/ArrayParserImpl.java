@@ -2,7 +2,7 @@ package edu.epam.arraytask.parser.impl;
 
 import edu.epam.arraytask.customarray.CustomArray;
 import edu.epam.arraytask.customarray.impl.CustomArrayImpl;
-import edu.epam.arraytask.exceptions.ArrayException;
+import edu.epam.arraytask.exception.ArrayException;
 import edu.epam.arraytask.parser.ArrayParser;
 import edu.epam.arraytask.validator.ArrayValidator;
 import org.apache.logging.log4j.Level;
